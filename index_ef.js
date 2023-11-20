@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  const textElement = document.querySelector(".box");
+  const textElement = document.querySelector("body");
   textElement.style.opacity = "0";
 
   setTimeout(function () {
