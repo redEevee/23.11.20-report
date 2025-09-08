@@ -36,6 +36,14 @@ nav a:hover {
   text-align: center;
   margin-top: 60px;
 }
+.boxleft
+{
+  width: 48%;
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+  
+}
 
 .main-content {
   width: 80%;
@@ -72,4 +80,8 @@ nav a:hover {
 
 .job-progress p {
   margin: 4px 0;
+}
+.center
+{
+  text-align: center;
 }
